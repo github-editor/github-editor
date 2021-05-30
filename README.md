@@ -4,3 +4,5 @@ Add `-editor` after github and press `Enter` in the browser address bar for any 
 For Example,
 
 [https://github-editor.com/laravel/laravel](https://github-editor.com/laravel/laravel)
+
+![Github Editor](https://raw.githubusercontent.com/github-editor/github-editor/main/sample.png)
