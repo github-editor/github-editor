@@ -5,4 +5,4 @@ For Example,
 
 [https://github-editor.com/laravel/laravel](https://github-editor.com/laravel/laravel)
 
-![Github Editor](https://raw.githubusercontent.com/github-editor/github-editor/main/sample-url.png)
+![Github Editor](https://raw.githubusercontent.com/github-editor/github-editor/main/sample-img.png)
