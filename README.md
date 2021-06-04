@@ -7,5 +7,5 @@ For Example,
 
 ![Github Editor](https://raw.githubusercontent.com/github-editor/github-editor/main/sample-img.png)
 
-##Or Download [Chrome Extension](https://chrome.google.com/webstore/detail/github-editor/ncpjnhlgobnelpmellmjmmkpcadhjibm)
+#Or Download [Chrome Extension](https://chrome.google.com/webstore/detail/github-editor/ncpjnhlgobnelpmellmjmmkpcadhjibm)
 ![Github Editor](https://raw.githubusercontent.com/github-editor/github-editor/main/chrome-extension.png)
